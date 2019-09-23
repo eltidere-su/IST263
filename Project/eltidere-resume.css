@@ -1,0 +1,45 @@
+body {
+    border-style: dotted;
+    border-width: medium;
+    border-color: #564A4D;
+    background-image: linear-gradient(#EFD9DE, #F9F0F2);
+    color: #564A4D;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    margin: 10pt;
+}
+header{
+  text-align: center;
+  font-size: 45px;
+  line-height: 1.0;
+  font-weight: bold;
+}
+div.paragraph1 p{
+    text-align: center;
+    font-size: 15px;
+    line-height: .005;
+}
+h2{
+    text-align: left;
+    font-size: 25px;
+    line-height: .05pt;
+    font-weight: bold;
+    text-decoration: underline;
+}
+h3{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0pt;
+    margin: 0pt;
+}
+p{
+    text-align: left;
+    font-size: 17px;
+    line-height: 14pt;
+    font-weight: bold; 
+    padding: 1pt;
+    margin: 1pt;
+}
+ul{
+    margin: 1pt;
+}
