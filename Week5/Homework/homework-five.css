@@ -1,0 +1,47 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+li {
+    padding: 10px;
+    width: 12cm;
+}
+.year {
+    width: 1cm;
+}
+.winner {
+    width: 4cm;
+}
+.website {
+    width: 5cm;
+}
+/* unvisited link */
+a:link {
+    color: #000000;
+  }
+  /* visited link */
+  a:visited {
+    color: red;
+  }
+  .odd {
+        background: #f1f1f1;
+
+    }
+    .even {
+        background: #e1e1e1;
+    } 
+    #broncos {
+        background: #FB4F14;
+        color: #002244;
+    }
+    #eagles {
+        background: #004C54;
+        color: #A5ACAF; 
+    }
+    .nfc {
+        background: #f1f1f1;
+    }
+    .afc {
+        background: #e1e1e1;
+    }
