@@ -104,8 +104,8 @@ img.me {
 .column {
     flex: 1;
     width: 33.33%;
-    padding: 10px;
-    margin: 10px;
+    padding: 100px;
+    margin: 100px;
   }
 .img{
     flex:2;
